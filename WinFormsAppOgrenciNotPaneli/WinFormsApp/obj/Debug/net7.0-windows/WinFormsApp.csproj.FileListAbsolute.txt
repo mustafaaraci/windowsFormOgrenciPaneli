@@ -1,0 +1,17 @@
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.exe
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.deps.json
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.dll
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\bin\Debug\net7.0-windows\WinFormsApp.pdb
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Form1.resources
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.Properties.Resources.resources
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.dll
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\refint\WinFormsApp.dll
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.pdb
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\Likite\Desktop\ders1\dotNet\WinFormsApp\WinFormsApp\obj\Debug\net7.0-windows\ref\WinFormsApp.dll
